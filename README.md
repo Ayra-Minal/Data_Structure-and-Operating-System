@@ -1,2 +1,2 @@
 # Operating-System
-codes of 2019 syllabus.
+codes of ktu 2019 syllabus.
