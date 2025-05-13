@@ -1,2 +1,2 @@
-# Operating-System
-codes of ktu 2019 syllabus.
+# Programming in c
+Codes on operating system and data structure.
